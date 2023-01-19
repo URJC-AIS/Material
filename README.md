@@ -1,4 +1,4 @@
-# Material
+# Ampliación de Ingeniería del Software - Material
 
 En este repositorio se encuentra el código con ejemplos y ejercicios resueltos de las diferentes partes de la asignatura "Ampliación de Ingeniería del Software" del Grado en Ingeniería de Informática de la ETSII URJC.
 
