@@ -1,0 +1,15 @@
+[submodule "Tema_1"]
+	path = Tema_1
+	url = git@github.com:URJC-AIS/Tema_1.git
+[submodule "github-actions"]
+	path = github-actions
+	url = git@github.com:URJC-AIS/github-actions.git
+[submodule "github-actions-e2e"]
+	path = github-actions-e2e
+	url = git@github.com:URJC-AIS/github-actions-e2e.git
+[submodule "continuous-deployment-heroku"]
+	path = continuous-deployment-heroku
+	url = git@github.com:URJC-AIS/continuous-deployment-heroku.git
+[submodule "docker-example"]
+	path = docker-example
+	url = git@github.com:URJC-AIS/docker-example.git
